@@ -1,3 +1,4 @@
 # Frogger
-change image file locations
-# Frogger
+Language  : Java
+Type      : Game
+Level     : Beginner
